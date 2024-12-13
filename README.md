@@ -34,4 +34,4 @@ optional arguments:
 ```
 ./ncdownloader.py -o path_to_download_to --glob "*.txt" --glob "*_1.*" "https://nextcloud.example.com/index.php/s/c56Ci4EpLnjj9xT"
 ```
-will download, e.g., `/example.txt`, `/subdir/example.txt`, `/subdir/file_1.gz`.
+will download, e.g., `/example.txt`, `/subdir/example.txt`, `/subdir/file_1.gz`, `/subdir_1.2/subdir/file.gz`.
