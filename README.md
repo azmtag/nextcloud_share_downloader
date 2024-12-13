@@ -1,6 +1,6 @@
 # Nextcloud share downloader
 
-A script for recursively downloading entire NextCloud shares from the command line. The script is loosely based on [aertslab/nextcloud_share_url_downloader](https://github.com/aertslab/nextcloud_share_url_downloader). Tested in Linux and Python 3.9.
+A script for recursively downloading entire NextCloud shares from the command line. The script is loosely based on [aertslab/nextcloud_share_url_downloader](https://github.com/aertslab/nextcloud_share_url_downloader). Tested in Linux and macOS and Python 3.9.
 
 ## Usage
 ```
